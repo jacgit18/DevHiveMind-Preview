@@ -1,11 +1,12 @@
 
 <img src="_NoteAssets/_Main/Brain-Patterns-Illustration.gif" alt="Brain Patterns Illustration">
 
-<div style="text-align:center;"><h1>Dev Journey Knowledge Repository </h1></div>
+<div style="text-align:center;"><h1>Dev Journey Knowledge Repository Preview Version </h1></div>
 
 This Software Development Knowledge Repository is a centralized and organized collection of information on various software development topics. It's designed to be a valuable resource for developers, both experienced and beginners, as well as anyone interested in the field.
 
-
+>[!note]
+>To access full vault signUp to be a contributor & Peer reviewer here: https://lnkd.in/e8dU26V4
 
 ## Key Features
 
